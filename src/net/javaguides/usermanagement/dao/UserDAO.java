@@ -18,7 +18,7 @@ import net.javaguides.usermanagement.model.User;
  *10.96.10.189:3306)/testdb
  */
 public class UserDAO {
-	private String jdbcURL = "jdbc:mysql://10.96.10.189:3306/testdb?useSSL=false";
+	private String jdbcURL = "jdbc:mysql://10.96.10.189:3306/demo?useSSL=false";
 	private String jdbcUsername = "root";
 	private String jdbcPassword = "cm9vdA==";
 
